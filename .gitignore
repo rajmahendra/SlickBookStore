@@ -104,6 +104,8 @@ $RECYCLE.BIN/
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
+.idea/modules/slickbookstore-build.iml
+.idea/scala_compiler.xml
 .idea/modules/
 
 # Sensitive or high-churn files:
